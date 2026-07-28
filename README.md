@@ -1,16 +1,133 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Gloria-Steephan/Gloria-Steephan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0d1117,161b22,238636&text=Gloria%20Steephan&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=238636,2ea043,56d364&text=Gloria%20Steephan&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0d1117,161b22,238636&text=Gloria%20Steephan&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+</picture>
+# Hey there, I'm Gloria 👋
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=Creative+Developer;Open+Source+Enthusiast;AI+Application+Builder;Generative+AI+Explorer;Machine+Learning+Enthusiast;Full+Stack+Developer" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+## ✨ About Me
+
+</div>
+
+I didn't start coding with a clear roadmap—I started because I loved creating things. What began as an interest in building and designing gradually grew into a passion for software development, where creativity meets problem-solving.
+
+Now, I'm a final-year Computer Science undergraduate focused on building AI-powered applications, full-stack software, and accessible digital experiences. Through internships, hackathons, and personal projects, I've gained hands-on experience turning ideas into practical solutions while continuously exploring new technologies and contributing to open source.
+
+- Building software that solves real-world problems
+- Exploring AI, Machine Learning & Generative AI
+- Developing modern full-stack web applications
+- Currently learning System Design & scalable architectures
+- Open Source Enthusiast
+- Hackathon Builder & Continuous Learner
+
+> **Still learning. Still building. Always curious.**
+
+---
+
+<div align="center">
+
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,nextjs,nodejs,express,fastapi,flutter,dart,mongodb,mysql,postgres,git,github,docker,figma,vscode,linux,postman&perline=8"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Analytics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gloria-Steephan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gloria-Steephan&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloria-Steephan&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gloria-Steephan&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+
+Create this automatically using:
+https://github.com/Platane/snk
+
+.github/workflows/snake.yml
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gloria-Steephan/Gloria-Steephan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gloria-Steephan/Gloria-Steephan/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Gloria-Steephan/Gloria-Steephan/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/gloria-steephan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="mailto:gloriasteephan18@gmail.com">
+<img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Gloria-Steephan&style=for-the-badge&color=22C55E"/>
+
+### *"Code with curiosity. Build with purpose. Never stop learning."*
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=14532D,0F172A">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=86EFAC,16A34A">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=22C55E"/>
+</picture>
