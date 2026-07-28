@@ -1,13 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0d1117,161b22,238636&text=Gloria%20Steephan&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=238636,2ea043,56d364&text=Gloria%20Steephan&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0d1117,161b22,238636&text=Gloria%20Steephan&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=header&height=140&color=14532D,0F172A">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&section=header&height=140&color=86EFAC,16A34A">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=140&color=22C55E"/>
 </picture>
-# Hey there, I'm Gloria 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=Creative+Developer;Open+Source+Enthusiast;AI+Application+Builder;Generative+AI+Explorer;Machine+Learning+Enthusiast;Full+Stack+Developer" />
+## Hey there, I'm Gloria 
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=Creative;Developer;Open+Source+Enthusiast;AI+Application+Builder;Generative+AI+Explorer;Machine+Learning+Enthusiast;Full+Stack+Developer" />
 
 </div>
 
@@ -15,7 +16,7 @@
 
 <div align="center">
 
-## ✨ About Me
+## About Me
 
 </div>
 
@@ -30,7 +31,7 @@ Now, I'm a final-year Computer Science undergraduate focused on building AI-powe
 - Open Source Enthusiast
 - Hackathon Builder & Continuous Learner
 
-> **Still learning. Still building. Always curious.**
+**Still learning. Still building. Always curious.**
 
 ---
 
@@ -56,50 +57,34 @@ Now, I'm a final-year Computer Science undergraduate focused on building AI-powe
 
 </div>
 
----
 
-<div align="center">
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gloria-Steephan&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
-
----
 
 <div align="center">
 
 ## 🐍 Contribution Snake
 
-
-Create this automatically using:
-https://github.com/Platane/snk
-
-.github/workflows/snake.yml
-
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gloria-Steephan/Gloria-Steephan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gloria-Steephan/Gloria-Steephan/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Gloria-Steephan/Gloria-Steephan/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gloria-Steephan/Gloria-Steephan/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Gloria-Steephan/Gloria-Steephan/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Snake Animation"
+    src="https://raw.githubusercontent.com/Gloria-Steephan/Gloria-Steephan/output/github-snake-dark.svg"
+  />
 </picture>
 
 </div>
-
----
-
 <div align="center">
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <a href="https://linkedin.com/in/gloria-steephan">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/">
