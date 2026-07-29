@@ -39,7 +39,7 @@ Now, I'm a final-year Computer Science undergraduate focused on building AI-powe
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,nextjs,nodejs,express,fastapi,flutter,dart,mongodb,mysql,postgres,git,github,docker,figma,vscode,linux,postman&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,nextjs,nodejs,express,flutter,dart,mongodb,mysql,postgres,git,github,figma,vscode,postman&perline=8"/>
 
 </div>
 
