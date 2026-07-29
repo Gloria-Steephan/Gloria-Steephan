@@ -8,7 +8,7 @@
 
 ## Hey there, I'm Gloria 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=Creative;Developer;Open+Source+Enthusiast;AI+Application+Builder;Generative+AI+Explorer;Machine+Learning+Enthusiast;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=Creative;Software+Developer;Open+Source+Enthusiast;AI+Enthusiast;Generative+AI+Explorer;Machine+Learning+Enthusiast;Full+Stack+Developer" />
 
 </div>
 
