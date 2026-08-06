@@ -49,11 +49,7 @@ Now, I'm a final-year Computer Science undergraduate focused on building AI-powe
 
 ## GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gloria-Steephan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gloria-Steephan&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloria-Steephan&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
